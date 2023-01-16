@@ -1,0 +1,16 @@
+/* ./src/styles/app.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h3 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+}
+p {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #6b7280;
+}
